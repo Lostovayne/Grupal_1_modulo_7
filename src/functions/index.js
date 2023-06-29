@@ -1,0 +1,5 @@
+export * from './addUserQuery'
+export * from './deleteEstudiante'
+export * from './getEstudiantes'
+export * from './getRutEstudiante'
+export * from './updateEstudiante'
